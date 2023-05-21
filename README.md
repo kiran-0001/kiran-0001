@@ -4,7 +4,7 @@
   
 
 ## <div align="center">I'm Shashi, an aspiring software developer ✌️</div>  
-## <div align="center"> 🔨Currently working on deep learning and IMSA Replay</div>  
+## <div align="center"> 🔨Currently working on deep learning and OpenMind</div>  
 
 <br/>  
 
